@@ -64,8 +64,3 @@ div#text-bg {
   text-decoration: solid;
 }
 
-@media (max-width: 768px) {
-  body {
-    height: auto;
-    padding: 20px;
-  }
