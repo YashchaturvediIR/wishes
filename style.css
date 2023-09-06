@@ -59,6 +59,11 @@ div#text-bg {
   max-width: .5px;
   padding-top: 500px;
 }
+@media (max-width: 768px) {
+  body {
+    height: auto;
+    padding: 20px;
+  }
 .yash{
   padding-left: 180px;
   text-decoration: solid;
